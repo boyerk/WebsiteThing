@@ -1,0 +1,22 @@
+	#lmao {
+		
+
+	}
+	#colors{
+		background: #590054;
+		color: #0090a3;
+		border: 1px;
+		border-style: double;
+		border-color: #0090a3;
+		border-width: 55px;
+		border-radius: 10px;
+		font-size: 32px;
+		font-family: Courier New;
+		text-align: center;
+	}
+	#button2{
+		text-align: center;
+	}
+	#button3{
+		text-align: left;
+	}
